@@ -1,4 +1,4 @@
-<h1 align= "center">Simulador-de-READY-QUEUE :hotspring: </h1>
+<h1 align= "center">Simulador-de-READY-QUEUE :hotsprings: </h1>
 <h2>Segundo Trabalho Prático de c012</h2>
 
 <p>Esse projeto tem como objetivo simular uma fila de
