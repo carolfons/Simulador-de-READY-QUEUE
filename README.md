@@ -1,10 +1,14 @@
-# Simulador-de-READY-QUEUE
-Segundo Trabalho Prático de c012
+<h1 align= "center">Simulador-de-READY-QUEUE :hotspring: </h1>
+<h2>Segundo Trabalho Prático de c012</h2>
 
-Esse projeto tem como objetivo simular uma fila de
-prontos(READY QUEUE) de um sistema operacional
+<p>Esse projeto tem como objetivo simular uma fila de
+prontos(READY QUEUE) de um sistema operacional</p>
 
-O simulador possui:
-  Um escalonador de processos com algoritmo Preemptivo (RR);
-  Um escalonador de processos com algoritmo não-Preemptivo (FCFS).
- 
+<p>O simulador possui:</p>
+<ul>
+  <li>Um escalonador de processos com algoritmo Preemptivo (RR);</li>
+  <li>Um escalonador de processos com algoritmo não-Preemptivo (FCFS).</li>
+ </ul>
+
+<h2> Status: </h2>
+<p>Projeto entregue :heavy_check_mark: </p>
